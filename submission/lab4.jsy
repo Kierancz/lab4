@@ -1,0 +1,1 @@
+const c = {foo: 123, bar: function(x: number) { return (x / 5) } }; c.bar(c.foo)
